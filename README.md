@@ -11,4 +11,4 @@ I just make apps I might want to use and publish them **for free**—code and al
 
 Everything here is free—no hidden fees, no premium plans, no nonsense. Just take it, use it, and improve it if you want. 
 
-> "I rawdog the software industry—no middlemen, no paywalls, just straight-up free code. Might be a bit rough, but hey, it works!" 😆
+> "I rawdog the software industry. No paywalls, just straight-up free code. Might be a bit rough, but hey, it works!" 😆
