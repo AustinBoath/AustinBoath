@@ -7,7 +7,8 @@ I just make apps I might want to use and publish them **for free**—code and al
 ## What You'll Find Here 💻
 - **🚴 Fitness & Mapping Tools** - Track routes, progress, and more.
 - **🛠 Open-Source Utilities** - Useful apps that don’t lock features behind a paywall.
-- **🎮 Game Mods & Enhancements** - Tweaks for transport and realism.
+
+**Hate my poorly written software?** no hard feelings, that's why I allow anyone to change it to suit them, and redistribute.
 
 Everything here is free—no hidden fees, no premium plans, no nonsense. Just take it, use it, and improve it if you want. 
 
